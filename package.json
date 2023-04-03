@@ -1,5 +1,5 @@
 {
-  "name": "new-folder-(2)",
+  "name": "backend-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3",
     "nodemon": "^2.0.22",
+    "npm": "^9.6.3",
     "path": "^0.12.7",
     "redis": "^4.6.5",
     "socket.io": "^4.6.1",
