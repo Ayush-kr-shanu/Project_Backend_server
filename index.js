@@ -110,7 +110,7 @@ app.get("/logout", async(req, res) => {
 
 const httpServer = http.createServer(app)
 
-httpServer.listen(2020,async ()=>{
+httpServer.listen(2020,'0.0.0.0',async ()=>{
      try {
         await connection
         console.log("DB connected");
